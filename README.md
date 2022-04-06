@@ -1,5 +1,7 @@
 # APIAutomation
  Rest-Assured
+ 
+ https://petstore.swagger.io/
 
 1 - pet store un boş oldugunun kontrol edilmesi
 
